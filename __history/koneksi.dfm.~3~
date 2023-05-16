@@ -1,0 +1,52 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 439
+  Width = 496
+  object ZConnection1: TZConnection
+    ControlsCodePage = cCP_UTF16
+    Catalog = ''
+    Properties.Strings = (
+      'controls_cp=CP_UTF16')
+    Connected = True
+    HostName = 'localhost'
+    Port = 3306
+    Database = '2110020031'
+    User = 'root'
+    Password = ''
+    Protocol = 'mysql'
+    LibraryLocation = 
+      'D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Win32\Debug\libmysql.dl' +
+      'l'
+    Left = 72
+    Top = 16
+  end
+  object ZQDataPetugas: TZQuery
+    Connection = ZConnection1
+    Active = True
+    SQL.Strings = (
+      'SELECT*FROM login_admin ORDER BY nik ASC')
+    Params = <>
+    Left = 32
+    Top = 104
+    object ZQDataPetugasnik: TIntegerField
+      FieldName = 'nik'
+      Required = True
+    end
+    object ZQDataPetugaspass: TIntegerField
+      FieldName = 'pass'
+      Required = True
+    end
+    object ZQDataPetugasuser_name: TWideStringField
+      FieldName = 'user_name'
+      Required = True
+    end
+    object ZQDataPetugasnama_petugas: TWideStringField
+      FieldName = 'nama_petugas'
+      Required = True
+    end
+  end
+  object DSDataPetugas: TDataSource
+    Left = 120
+    Top = 104
+  end
+end

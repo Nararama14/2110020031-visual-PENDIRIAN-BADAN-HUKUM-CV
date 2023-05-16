@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/14 08.00.00.000.293,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 10.00.00.000.540,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/13 10.00.00.000.767,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Login.dfm</Transaction>
+    <Transaction>2023/05/13 10.00.00.000.970,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Project1.dproj</Transaction>
+    <Transaction>2023/05/13 10.00.00.000.767,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Login.pas</Transaction>
+    <Transaction>2023/05/13 10.00.00.000.449,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/13 11.00.00.000.108,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit2.pas=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\menu.pas</Transaction>
+    <Transaction>2023/05/13 11.00.00.000.531,=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit2.pas</Transaction>
+    <Transaction>2023/05/13 11.00.00.000.108,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit2.dfm=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\menu.dfm</Transaction>
+    <Transaction>2023/05/13 13.00.00.000.211,=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit3.pas</Transaction>
+    <Transaction>2023/05/13 14.00.00.000.259,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit6.pas=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\MasukanDataCV.pas</Transaction>
+    <Transaction>2023/05/13 14.00.00.000.947,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit4.dfm=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\MasukanDataPemilik.dfm</Transaction>
+    <Transaction>2023/05/13 14.00.00.000.947,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit4.pas=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\MasukanDataPemilik.pas</Transaction>
+    <Transaction>2023/05/13 14.00.00.000.951,=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit4.pas</Transaction>
+    <Transaction>2023/05/13 14.00.00.000.793,=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit6.pas</Transaction>
+    <Transaction>2023/05/13 14.00.00.000.259,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit6.dfm=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\MasukanDataCV.dfm</Transaction>
+    <Transaction>2023/05/13 14.00.00.000.418,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit5.pas=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\MasukanDataNotaris.pas</Transaction>
+    <Transaction>2023/05/13 14.00.00.000.159,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\MasukanDataPetugas.pas=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit3.pas</Transaction>
+    <Transaction>2023/05/13 14.00.00.000.379,=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit5.pas</Transaction>
+    <Transaction>2023/05/13 14.00.00.000.418,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit5.dfm=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\MasukanDataNotaris.dfm</Transaction>
+    <Transaction>2023/05/13 14.00.00.000.159,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\MasukanDataPetugas.dfm=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit3.dfm</Transaction>
+    <Transaction>2023/05/14 10.00.00.000.257,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit7.dfm=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\MasukanDataRegisterCV.dfm</Transaction>
+    <Transaction>2023/05/14 10.00.00.000.623,=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit7.pas</Transaction>
+    <Transaction>2023/05/14 10.00.00.000.257,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit7.pas=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\MasukanDataRegisterCV.pas</Transaction>
+    <Transaction>2023/05/14 10.00.00.000.832,=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit1.pas</Transaction>
+    <Transaction>2023/05/14 14.00.00.000.634,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\koneksi.dfm=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit1.dfm</Transaction>
+    <Transaction>2023/05/14 14.00.00.000.634,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\koneksi.pas=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\Unit1.pas</Transaction>
+    <Transaction>2023/05/14 22.00.00.000.149,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\koneksi.dfm=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\uDatamodul.dfm</Transaction>
+    <Transaction>2023/05/14 22.00.00.000.149,D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\koneksi.pas=D:\apk\visual 2\PENDIRIAN BADAN HUKUM CV\uDatamodul.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Login.pas"/>
+    <File Path="Login.dfm"/>
+    <File Path="menu.pas"/>
+    <File Path="menu.dfm"/>
+    <File Path="MasukanDataPetugas.pas"/>
+    <File Path="MasukanDataPetugas.dfm"/>
+    <File Path="MasukanDataPemilik.pas"/>
+    <File Path="MasukanDataPemilik.dfm"/>
+    <File Path="MasukanDataNotaris.pas"/>
+    <File Path="MasukanDataNotaris.dfm"/>
+    <File Path="MasukanDataCV.pas"/>
+    <File Path="MasukanDataCV.dfm"/>
+    <File Path="MasukanDataRegisterCV.pas"/>
+    <File Path="MasukanDataRegisterCV.dfm"/>
+    <File Path="uDatamodul.pas"/>
+    <File Path="uDatamodul.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

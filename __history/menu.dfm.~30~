@@ -1,0 +1,87 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Align = alCustom
+  Caption = 'Form2'
+  ClientHeight = 512
+  ClientWidth = 714
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsMDIForm
+  Menu = MainMenu1
+  OldCreateOrder = False
+  Position = poDesigned
+  WindowState = wsMaximized
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 714
+    Height = 96
+    Align = alTop
+    Color = clSilver
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -21
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold]
+    ParentBackground = False
+    ParentFont = False
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 592
+      Top = 20
+      Width = 712
+      Height = 24
+      Align = alCustom
+      Caption = 'REGISTER PENDIRIAN BADAN HUKUM CV '
+    end
+    object Label2: TLabel
+      Left = 656
+      Top = 50
+      Width = 303
+      Height = 24
+      Caption = 'PADA PENGADILAN NEGEGRI'
+    end
+  end
+  object MainMenu1: TMainMenu
+    Left = 48
+    Top = 136
+    object KELUAR1: TMenuItem
+      Caption = 'MENU'
+    end
+    object MasukanData1: TMenuItem
+      Caption = 'Masukan Data'
+      object MasukanDataPetugas1: TMenuItem
+        Caption = 'Masukan Data Petugas'
+        OnClick = MasukanDataPetugas1Click
+      end
+      object MasukanDataPemilik1: TMenuItem
+        Caption = 'Masukan Data Pemilik'
+        OnClick = MasukanDataPemilik1Click
+      end
+      object MasukanDataNotaris1: TMenuItem
+        Caption = 'Masukan Data Notaris'
+        OnClick = MasukanDataNotaris1Click
+      end
+      object MasukanDataCV1: TMenuItem
+        Caption = 'Masukan Data CV'
+        OnClick = MasukanDataCV1Click
+      end
+    end
+    object PencarianData1: TMenuItem
+      Caption = 'Pencarian Data'
+    end
+    object Laporan1: TMenuItem
+      Caption = 'Laporan'
+    end
+    object Keluar2: TMenuItem
+      Caption = 'Keluar'
+    end
+  end
+end

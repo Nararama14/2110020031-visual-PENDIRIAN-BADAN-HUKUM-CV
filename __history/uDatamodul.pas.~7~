@@ -1,0 +1,40 @@
+unit uDatamodul;
+
+interface
+
+uses
+  System.SysUtils, System.Classes, Data.DB, ZAbstractRODataset,
+  ZAbstractDataset, ZDataset, ZAbstractConnection, ZConnection;
+
+type
+  TDataModule1 = class(TDataModule)
+    ZConnection1: TZConnection;
+    QDataPetugas: TZQuery;
+    DSDataPetugas: TDataSource;
+    QDataPetugasnik: TIntegerField;
+    QDataPetugasnama_petugas: TWideStringField;
+    QDataPetugasuser_name: TWideStringField;
+    QDataPetugaspass: TWideStringField;
+    Qdatapemilik: TZQuery;
+    DSdatapemilik: TDataSource;
+    Qdatapemilikkd_pemilik: TIntegerField;
+    Qdatapemiliknm_pemilik: TWideStringField;
+    Qdatapemilikjk: TWideStringField;
+    Qdatapemilikalmt_pemilik: TWideStringField;
+    Qdatapemilikno_tlp: TIntegerField;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  DataModule1: TDataModule1;
+
+implementation
+
+{%CLASSGROUP 'Vcl.Controls.TControl'}
+
+{$R *.dfm}
+
+end.

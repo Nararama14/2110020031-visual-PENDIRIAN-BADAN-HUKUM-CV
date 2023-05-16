@@ -1,0 +1,77 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'Form3'
+  ClientHeight = 572
+  ClientWidth = 868
+  Color = clActiveCaption
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  Menu = MainMenu1
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = -8
+    Top = -6
+    Width = 878
+    Height = 96
+    Color = clSilver
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -21
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold]
+    ParentBackground = False
+    ParentFont = False
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 232
+      Top = 28
+      Width = 435
+      Height = 24
+      Caption = 'REGISTER PENDIRIAN BADAN HUKUM CV '
+    end
+    object Label2: TLabel
+      Left = 280
+      Top = 58
+      Width = 303
+      Height = 24
+      Caption = 'PADA PENGADILAN NEGEGRI'
+    end
+  end
+  object MainMenu1: TMainMenu
+    Left = 48
+    Top = 176
+    object KELUAR1: TMenuItem
+      Caption = 'MENU'
+    end
+    object MasukanData1: TMenuItem
+      Caption = 'Masukan Data'
+      object MasukanDataPetugas1: TMenuItem
+        Caption = 'Masukan Data Petugas'
+      end
+      object MasukanDataPemilik1: TMenuItem
+        Caption = 'Masukan Data Pemilik'
+      end
+      object MasukanDataNotaris1: TMenuItem
+        Caption = 'Masukan Data Notaris'
+      end
+      object MasukanDataCV1: TMenuItem
+        Caption = 'Masukan Data CV'
+      end
+    end
+    object PencarianData1: TMenuItem
+      Caption = 'Pencarian Data'
+    end
+    object Laporan1: TMenuItem
+      Caption = 'Laporan'
+    end
+    object Keluar2: TMenuItem
+      Caption = 'Keluar'
+    end
+  end
+end
